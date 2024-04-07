@@ -2,7 +2,12 @@
 Dahel Consultant and Techies Internship: This is a project that entails the analysis of a Tour de France (Tourism)
 (*The picture below is gotten from Chicagoland Epic Game Website*). 
 
-![image](https://github.com/RemedyData/Dahel_Tour_de_France_Analysis_Internship/assets/137626163/0836fb36-f044-4135-826c-a4b9a7c2e2f8)
+
+
+
+![image](https://github.com/RemedyData/Dahel_Tour_de_France_Analysis_Internship/assets/137626163/3eae92d2-bb55-42ea-865e-1c59e4087008)
+
+
 
 
 
