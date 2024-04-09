@@ -150,7 +150,7 @@ The overall analysis of the dataset can be checked out [here](https://docs.googl
 
 ## Analysis and Observation:
 
-Summary of the insights gained into the company's performance: 
+Summary of the insights gained into the bike race performance: 
 
 - The average speed of the riders in the year 1903 is	24.2km/hr						
 								
